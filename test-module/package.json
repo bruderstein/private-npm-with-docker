@@ -1,0 +1,11 @@
+{
+  "name": "test-module",
+  "version": "1.0.0",
+  "description": "Probably the best module I've ever written",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"You're not expecting tests too, are you?\" && exit 1"
+  },
+  "author": "Dave Brotherstone",
+  "license": "MIT"
+}

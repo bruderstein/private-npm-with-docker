@@ -1,0 +1,8 @@
+#!/bin/sh
+
+docker run \
+       --name private_npm_data \
+       -v /var/lib/couchdb \
+       debian:stable
+
+

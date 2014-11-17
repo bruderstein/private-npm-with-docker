@@ -1,0 +1,9 @@
+#!/bin/sh
+
+
+docker run -d \
+       --name private_npm \
+       -p 127.0.0.1:5984:5984 \
+       -p 5955:80 \
+      --volumes-from private_npm_data \
+      burkostya/npm-registry:2.5.5

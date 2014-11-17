@@ -1,0 +1,8 @@
+#!/bin/sh
+
+docker run -d \
+       --name private_npm \
+       -p 127.0.0.1:5984:5984 \
+       -p 5955:80 \
+      -v /data/privatenpm:/var/lib/couchdb \
+      burkostya/npm-registry:2.5.5
