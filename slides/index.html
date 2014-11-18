@@ -265,7 +265,8 @@
 
      <span>ADD package.json /app/</span>
      
-     <span>RUN npm install --registry=http://10.0.0.1:5955/</span>
+     <span>RUN cd /app &amp;&amp; \
+         npm install --registry=http://10.0.0.1:5955/</span>
 
      <span>ADD . /app/</span>
      </p>
