@@ -19,8 +19,7 @@ There are two versions - `start-private-npm` stores the data on the host, and `s
 
 [Dockerfile best practices (from Docker)](https://docs.docker.com/articles/dockerfile_best-practices/)
 
-The next two don't seem to be available currently, so I've added the google cache links
 
-[Dockerfile best practices - Michael Crosby](https://crosbymichael.com/dockerfile-best-practices.html) [Cache](http://webcache.googleusercontent.com/search?q=cache:7uuoNv2AR-cJ:https://crosbymichael.com/dockerfile-best-practices.html+&cd=2&hl=de&ct=clnk&gl=uk)
+[Dockerfile best practices - Michael Crosby](http://crosbymichael.com/dockerfile-best-practices.html) 
 
-[Dockerfile best practices - take 2 - Michael Crosby](https://crosbymichael.com/dockerfile-best-practices-take-2.html)  [Cache](http://webcache.googleusercontent.com/search?q=cache:99aE6kmO0bkJ:https://crosbymichael.com/dockerfile-best-practices-take-2.html+&cd=3&hl=de&ct=clnk&gl=uk) 
+[Dockerfile best practices - take 2 - Michael Crosby](http://crosbymichael.com/dockerfile-best-practices-take-2.html) 
